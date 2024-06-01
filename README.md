@@ -1,2 +1,2 @@
 # Bomberman-CE
-![alt text](openme/screenshots/title.png "Description goes here")
+![alt text]("open me/screenshots/title.png" "Description goes here")
